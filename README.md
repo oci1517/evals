@@ -1,5 +1,6 @@
-# Template de base pour les TMs d'informatique du CSUD
+# Évalutations du cours d'OC informatique 2015-2017
 
+<!--
 ## Installation
 
 ### Prérequis
@@ -66,3 +67,6 @@ Il peut être pratique de faire un fork du dépôt https://bitbucket.org/donnerc
 Se référer aux dépôts suivants qui ont été largement utilisés :
 
 * https://github.com/GaretJax/sphinx-autobuild (LiveReload de la documentation)
+
+-->
+
