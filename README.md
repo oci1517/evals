@@ -1,4 +1,4 @@
-# Évalutations du cours d'OC informatique 2015-2017
+# Évaluations du cours d'OC informatique 2015-2017
 
 <!--
 ## Installation
