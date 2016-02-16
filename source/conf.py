@@ -180,7 +180,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Dveloppementduneapplicationwebdecrationdequizdoc'
+htmlhelp_basename = 'tp'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -188,8 +188,8 @@ htmlhelp_basename = 'Dveloppementduneapplicationwebdecrationdequizdoc'
 latex_elements = {
    'papersize':"a4",
    'author': "Cédric Donner",
-   'date': "janvier 2015",
-   'title': "Examen pratique",
+   'date': "janvier 2016",
+   'title': "Évaluations",
    'release' : "",
    'releasename' : "Collège du sud, Option complémentaire informatique",
    'fontpkg': '\\usepackage{times}',
@@ -200,7 +200,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'tm-ecrit.tex', u'Titre du TM ==> modifier dans "latex_documents"',
+  ('index', 'tp.tex', u'Travaux pratiques d\'informatique',
    u'Auteur', 'manual'),
 ]
 

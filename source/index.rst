@@ -1,22 +1,10 @@
-###########
-OCI, évaluations
-###########
-
+##################
 Examens théoriques
-==================
+##################
+
 
 ..  toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     
-    theorique/index
-
-
-
-Travaux pratiques
-=================
-
-..  toctree::
-    :maxdepth: 2
-    
-    pratique/index
-
+    01/index
+    02/index
